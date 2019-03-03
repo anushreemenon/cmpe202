@@ -1,6 +1,6 @@
 Lab4 for CMPE 202
 
-CRC cards added in a word document under Output folder
+CRC cards screen shot and word document added under Output folder
 
 Design Patterns:
 
