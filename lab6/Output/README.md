@@ -57,8 +57,7 @@ LBB
 Lettuce
 
 Tomato
--
->| G Onion
+->| G Onion
 
 ->| JALA Grilled
 
