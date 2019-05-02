@@ -9,3 +9,22 @@ the original solution.
 
 - The behaviour of the code can be easily changed at runtime by using Feature IDE/Aspectj programming.
 
+![alt text](https://github.com/anushreemenon/cmpe202/blob/master/lab10/Output/Screenshots/Feature%20%20Order%20Crank%20Machine%20supporting%2025%20Cents.JPG?raw=true)
+
+![alt text](https://github.com/anushreemenon/cmpe202/blob/master/lab10/Output/Screenshots/Feature%20Order%20Crank%20Machine%20supporting%2050%20Cents.JPG?raw=true)
+
+![alt text](https://github.com/anushreemenon/cmpe202/blob/master/lab10/Output/Screenshots/Feature%20Order%20Slot%20Machine%20supporting%2025%20Cents.JPG?raw=true)
+
+![alt text](https://github.com/anushreemenon/cmpe202/blob/master/lab10/Output/Screenshots/Feature%20Order%20Slot%20Machine%20supporting%2050%20Cents.JPG?raw=true)
+
+![alt text](https://github.com/anushreemenon/cmpe202/blob/master/lab10/Output/Screenshots/CrankMachine%2025%20Cents.JPG?raw=true)
+
+![alt text](https://github.com/anushreemenon/cmpe202/blob/master/lab10/Output/Screenshots/CrankMachine%2050%20Cents.JPG?raw=true)
+
+![alt text](https://github.com/anushreemenon/cmpe202/blob/master/lab10/Output/Screenshots/SlotMachine%2025%20Cents.JPG?raw=true)
+
+![alt text](https://github.com/anushreemenon/cmpe202/blob/master/lab10/Output/Screenshots/SlotMachine%2050%20Cents.JPG?raw=true)
+
+
+
+
